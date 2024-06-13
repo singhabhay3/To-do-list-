@@ -37,12 +37,8 @@ Make sure you have the following installed:
    ```bash
    https://github.com/singhabhay3/To-do-list-.git
 
-2. **Navigate to the Project Directory:**
 
-   ```bash
-
-
-3. **Open `index.html` in a Browser:**
+2. **Open `index.html` in a Browser:**
 
    Open the `index.html` file in your preferred web browser.
 
