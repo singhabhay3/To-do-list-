@@ -35,14 +35,12 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone git@github.com:abdellatif-laghjaj/todo-list.git
-   ```
+   https://github.com/singhabhay3/To-do-list-.git
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd todo-list
-   ```
+
 
 3. **Open `index.html` in a Browser:**
 
